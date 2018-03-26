@@ -1,0 +1,13 @@
+#bar a {color:#000000;  /*This changes the colour of the text in the nav bar */
+font-size:20px;
+}
+#bar .nav > li > a:hover{ color: #696969; /*This changes the colour of the text when you hover ovr it in the nav bar. */
+}
+.dropdown-toggle{
+color:#000000;		/*This changes the color of the text in the dropdown menu */
+}
+
+#brand a {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 30px;
+}

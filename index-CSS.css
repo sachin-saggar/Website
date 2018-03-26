@@ -1,0 +1,38 @@
+body {
+	background-color: #7a2029;
+	max-width: 960px;
+	min-width: 450px;
+	margin: auto;
+}
+
+#content {
+	background-color: #d3d3d3;
+	position: relative;
+	padding: 35px;
+	padding-top: 1px;
+	padding-bottom: 52px;
+}
+
+h1, h2, li, p {
+	font-family: "Arial", Times;
+}
+
+#navbar ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+    background-color: #a79e8d;
+}
+
+#navbar li {
+	float: left;
+}
+
+#navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
